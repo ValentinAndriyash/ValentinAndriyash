@@ -17,7 +17,7 @@ I consider myself a motivated, curious, and consistent person who enjoys learnin
 This GitHub profile reflects my progress, from my first steps in IT to more advanced projects in the future.
 
 * 🌍  I'm based in Spain
-* 🖥️  See my portfolio at [My portfolio](http://https://github.com/ValenA3)
+* 🖥️  See my portfolio at [My portfolio](https://github.com/ValenA3)
 * ✉️  You can contact me at [valentinandriyash413@gmail.com](mailto:valentinandriyash413@gmail.com)
 
 <p align="left">
